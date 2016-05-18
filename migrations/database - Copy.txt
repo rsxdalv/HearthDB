@@ -1,0 +1,470 @@
+abomination	1
+abusive sergeant	0
+acidic swamp ooze	1
+acolyte of pain	6
+al'akir the windlord	0
+alarm-o-bot	0
+aldor peacekeeper	0
+alexstrasza	0
+amani berserker	0
+ancestor's call	0
+ancestral healing	0
+ancestral spirit	0
+ancient brewmaster	0
+ancient mage	0
+ancient of lore	0
+ancient of war	0
+ancient watcher	0
+angry chicken	0
+animal companion	0
+annoy-o-tron	0
+anodized robo cub	0
+antique healbot	0
+anub'ar ambusher	0
+arathi weaponsmith	2
+arcane explosion	0
+arcane golem	0
+arcane intellect	3
+arcane missiles	0
+arcane shot	0
+arcanite reaper	0
+archmage	0
+archmage antonidas	0
+argent commander	0
+argent protector	0
+argent squire	0
+armorsmith	0
+assassinate	0
+assassin's blade	0
+auchenai soulpriest	0
+avenge	0
+avenging wrath	0
+azure drake	0
+backstab	0
+bane of doom	0
+baron geddon	0
+baron rivendare	0
+battle rage	0
+bestial wrath	0
+betrayal	0
+big game hunter	0
+bite	0
+blade flurry	0
+blessed champion	0
+blessing of kings	0
+blessing of might	0
+blessing of wisdom	0
+blingtron 3000	0
+blizzard	0
+blood imp	0
+blood knight	0
+bloodfen raptor	0
+bloodlust	0
+bloodmage thalnos	0
+bloodsail corsair	0
+bloodsail raider	-1
+bluegill warrior	0
+bomb lobber	0
+booty bay bodyguard	0
+boulderfist ogre	0
+bouncing blade	0
+brawl	0
+burly rockjaw trogg	0
+cabal shadow priest	0
+cairne bloodhoof	0
+call pet	0
+captain greenskin	0
+captain's parrot	0
+cenarius	0
+charge	0
+chillwind yeti	0
+circle of healing	0
+claw	0
+cleave	0
+clockwork giant	0
+clockwork gnome	0
+cobalt guardian	0
+coghammer	0
+cogmaster	0
+cold blood	0
+coldlight oracle	0
+coldlight seer	0
+commanding shout	0
+conceal	0
+cone of cold	0
+consecration	0
+core hound	0
+corruption	0
+counterspell	0
+crazed alchemist	0
+cruel taskmaster	0
+cult master	0
+dalaran mage	0
+dancing swords	0
+dark cultist	0
+dark iron dwarf	2
+darkscale healer	0
+deadly poison	0
+deadly shot	0
+deathlord	0
+death's bite	0
+deathwing	0
+defender of argus	1
+defias ringleader	0
+demolisher	2
+demonfire	0
+dire wolf alpha	0
+divine favor	0
+divine spirit	0
+doomguard	0
+doomhammer	0
+doomsayer	0
+dr. boom	0
+dragonling mechanic	0
+drain life	0
+dread corsair	0
+dread infernal	0
+druid of the claw	0
+dunemaul shaman	0
+duplicate	2
+dust devil	0
+eaglehorn bow	0
+earth elemental	0
+earth shock	0
+earthen ring farseer	0
+echoing ooze	0
+edwin vancleef	0
+elite tauren chieftain	0
+elven archer	0
+emperor cobra	0
+enhance-o mechano	0
+equality	0
+ethereal arcanist	0
+eviscerate	0
+execute	0
+explosive sheep	0
+explosive shot	0
+explosive trap	0
+eye for an eye	0
+faceless manipulator	0
+faerie dragon	0
+fan of knives	0
+far sight	0
+feign death	0
+fel cannon	0
+felguard	0
+felheart	0
+fen creeper	0
+feral spirit	0
+feugan	0
+fiery war axe	0
+fire elemental	0
+fireball	0
+flame imp	0
+flamecannon	0
+flamestrike	3
+flametongue totem	0
+flare	0
+flesheating ghoul	0
+foe reaper 4000	0
+force of nature	0
+forked lightning	0
+freezing trap	0
+frost elemental	0
+frost nova	0
+frost shock	0
+frostbolt	1
+frostwolf grunt	0
+frostwolf warlord	0
+frothing berserker	0
+gadgetzan auctioneer	0
+gahz'rilla	0
+gelbin mekkatorque	0
+gladiator's longbow	0
+gnomish experimenter	0
+gnomish inventor	8
+goblin auto-barber	0
+goblin blastmage	0
+goblin sapper	0
+goldshire footman	0
+gorehowl	0
+grimscale oracle	0
+grommash hellscream	0
+gruul	0
+guardian of kings	0
+gurubashi berserker	1
+hammer of wrath	0
+hand of protection	0
+harrison jones	0
+harvest golem	0
+haunted creeper	2
+headcrack	0
+healing touch	0
+hellfire	0
+heroic strike	0
+hex	0
+hogger	0
+holy fire	0
+holy light	0
+holy nova	0
+holy smite	0
+holy wrath	0
+houndmaster	0
+humility	0
+hungry crab	0
+hunter's mark	0
+ice barrier	0
+ice block	0
+ice lance	0
+illidan stormrage	0
+illuminator	0
+imp master	0
+injured blademaster	0
+inner fire	0
+inner rage	0
+innervate	0
+iron sensei	0
+ironbark protector	0
+ironbeak owl	0
+ironforge rifleman	0
+ironfur grizzly	0
+jeeves	0
+jungle panther	0
+keeper of the grove	0
+kel'thuzad	0
+kidnapper	0
+kill command	0
+king krush	0
+king mukla	0
+kirin tor mage	0
+knife juggler	0
+kobold geomancer	0
+kor'kron elite	0
+lava burst	0
+lay on hands	0
+leeroy jenkins	0
+leper gnome	0
+lightning bolt	0
+lightning storm	0
+light's justice	0
+lightspawn	0
+lightwarden	0
+lightwell	0
+lil' exorcist	0
+loatheb	0
+loot hoarder	0
+lord jaraxxus	0
+lord of the arena	0
+lorewalker cho	0
+mad bomber	0
+mad scientist	0
+madder bomber	0
+maexxna	0
+magma rager	-10
+malygos	0
+mana addict	0
+mana tide totem	0
+mana wraith	0
+mana wyrm	2
+mark of nature	0
+mark of the wild	0
+mass dispel	0
+master of disguise	0
+master swordsmith	0
+mech-bear-cat	0
+mechwarper	0
+mekgineer thermaplugg	0
+micro machine	0
+millhouse manastorm	0
+mimiron's head	0
+mind blast	0
+mind control	0
+mind control tech	0
+mind vision	0
+mindgames	0
+mirror entity	1
+mirror image	0
+misdirection	0
+mogu'shan warden	0
+molten giant	0
+moonfire	0
+mortal coil	0
+mortal strike	0
+mountain giant	0
+multi-shot	0
+murloc raider	0
+murloc tidecaller	0
+murloc tidehunter	0
+murloc warleader	0
+muster for battle	0
+nat pagle	0
+naturalize	0
+nerub'ar weblord	0
+nerubian egg	0
+nightblade	0
+noble sacrifice	0
+northshire cleric	0
+nourish	0
+novice engineer	0
+nozdormu	0
+oasis snapjaw	0
+ogre magi	0
+ogre ninja	0
+ogre warmaul	0
+old murk-eye	0
+onyxia	0
+patient assassin	0
+perdition's blade	0
+piloted shredder	0
+piloted sky golem	0
+pint-sized summoner	0
+pit lord	0
+poison seeds	0
+polymorph	0
+power of the wild	2
+power overwhelming	0
+power word: shield	0
+preparation	0
+priestess of elune	0
+prophet velen	0
+pyroblast	0
+questing adventurer	0
+raging worgen	0
+ragnaros the firelord	0
+raid leader	0
+rampage	0
+ravenholdt assassin	0
+razorfen hunter	0
+reckless rocketeer	0
+recombobulator	0
+redemption	0
+reincarnate	0
+repentance	0
+river crocolisk	0
+rockbiter weapon	0
+sabotage	0
+sacrificial pact	0
+sap	0
+savage roar	0
+savagery	0
+savannah highmane	0
+scarlet crusader	0
+scarlet purifier	0
+scavenging hyena	0
+screwjank clunker	0
+sea giant	0
+secretkeeper	0
+sen'jin shieldmasta	0
+sense demons	0
+shade of naxxramas	0
+shadow bolt	0
+shadow madness	0
+shadow word: death	0
+shadow word: pain	0
+shadowflame	0
+shadowform	0
+shadowstep	0
+shattered sun cleric	0
+shield block	0
+shield slam	0
+shieldbearer	0
+shieldmaiden	0
+shiv	0
+shrinkmeister	0
+si:7 agent	0
+silence	0
+silver hand knight	0
+silverback patriarch	0
+silvermoon guardian	0
+sinister strike	0
+siphon soul	0
+slam	1
+sludge belcher	0
+snake trap	0
+sneed's old shredder	0
+snipe	0
+snowchugger	0
+sorcerer's apprentice	0
+soul of the forest	0
+soulfire	0
+southsea captain	0
+southsea deckhand	0
+spectral knight	0
+spellbender	0
+spellbreaker	1
+spider tank	0
+spiteful smith	0
+sprint	0
+stalagg	0
+stampeding kodo	4
+starfall	0
+starfire	0
+starving buzzard	0
+stoneskin gargoyle	0
+stonetusk boar	0
+stormforged axe	0
+stormpike commando	1
+stormwind champion	0
+stormwind knight	0
+stranglethorn tiger	0
+succubus	0
+summoning portal	0
+sunfury protector	0
+sunwalker	0
+swipe	0
+sword of justice	0
+sylvanas windrunner	0
+tauren warrior	0
+temple enforcer	0
+the beast	0
+the black knight	0
+thoughtsteal	0
+thrallmar farseer	0
+timber wolf	0
+tinkertown technician	0
+tinkmaster overspark	0
+tirion fordring	0
+toshley	0
+totemic might	0
+tracking	0
+truesilver champion	0
+tundra rhino	0
+twilight drake	0
+twisting nether	0
+unbound elemental	0
+undertaker	0
+unleash the hounds	0
+unstable ghoul	0
+unstable portal	0
+upgrade!	0
+upgraded repair bot	0
+vanish	0
+vaporize	0
+velen's chosen	0
+venture co. mercenary	0
+violet teacher	2
+void terror	0
+voidcaller	0
+voidwalker	0
+voodoo doctor	0
+wailing soul	0
+war golem	0
+warsong commander	0
+water elemental	0
+webspinner	0
+whirling zap-o-matic	0
+whirlwind	0
+wild growth	0
+wild pyromancer	0
+windfury	0
+windfury harpy	0
+windspeaker	0
+wisp	0
+wolfrider	0
+worgen infiltrator	0
+wrath	0
+young dragonhawk	0
+young priestess	0
+youthful brewmaster	0
+ysera	0
+zombie chow	0

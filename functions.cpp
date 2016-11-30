@@ -1,4 +1,5 @@
 #include "functions.h"
+#include <string.h>
 
 void updateV2()
 {

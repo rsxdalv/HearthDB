@@ -4,7 +4,7 @@
 
 class Card
 {
-    public:
+  public:
     int value;
     std::string name;
     int dataPoints;
@@ -13,8 +13,12 @@ class Card
     Card(std::string CardName, int CardValue, int dataPoints, int index);
     ~Card();
     double getValue();
-    void incrementValue() {value++;}
-    int addValue(int valueDifference) {dataPoints++; return (value+=valueDifference)/dataPoints;}
+    void incrementValue() { value++; }
+    int addValue(int valueDifference)
+    {
+        dataPoints++;
+        return (value += valueDifference) / dataPoints;
+    }
 };
 
 #endif // CARD_H

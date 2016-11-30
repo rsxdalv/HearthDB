@@ -6,15 +6,15 @@ Card::Card(std::string name, int value, int dataPoints, int index)
     this->value = value;
     this->dataPoints = dataPoints;
     this->index = index;
-//    return this;
+    //    return this;
 }
 
-Card::~Card() {};
+Card::~Card(){};
 
 double Card::getValue()
 {
-    if(dataPoints)
-        return (double)value/dataPoints;
+    if (dataPoints)
+        return (double)value / dataPoints;
     else
         return value;
 }

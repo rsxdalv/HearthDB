@@ -9,16 +9,16 @@
 //This is a lowly ad-hoc type database, fully integrated.
 class database
 {
-    public:
-    std::ifstream *input;
-    std::ofstream *output;
+public:
+  std::ifstream *input;
+  std::ofstream *output;
 
-    CardList cardList;
+  CardList cardList;
 
-    database(char * name);
-    ~database();
-    void read();
-    void write();
+  database(char *name);
+  ~database();
+  void read();
+  void write();
 };
 
 #endif // DATABASE_H

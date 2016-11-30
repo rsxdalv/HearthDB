@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp functions.cpp database.cpp controller.cpp card.cpp -o ./build/hearthstoneDB
+	g++ ./src/main.cpp ./src/functions.cpp ./src/database.cpp ./src/controller.cpp ./src/card.cpp -o ./build/hearthstoneDB
